@@ -1,7 +1,7 @@
 
 //ARDUINO CODE FOR CONTROLLING NRF24 WIRLESS MODULES
 //KEVIN WALKER 2022
-//https://create.arduino.cc/projecthub/muhammad-aqib/nrf24l01-interfacing-with-arduino-wireless-communication-0c13d4
+//based on https://create.arduino.cc/projecthub/muhammad-aqib/nrf24l01-interfacing-with-arduino-wireless-communication-0c13d4
 
 #include <SPI.h>
 #include <nRF24L01.h>
